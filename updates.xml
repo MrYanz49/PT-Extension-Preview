@@ -2,11 +2,11 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <!-- Ekstensi Pertama (Beta) -->
   <app appid='inbjmnofieomcbdgggbphnnammeolipf'>
-    <updatecheck codebase='https://github.com/MrYanz49/PT-Extension-Preview/releases/latest/download/betaextension.crx' version='1.2.6' />
+    <updatecheck codebase='https://github.com/MrYanz49/PT-Extension-Preview/releases/latest/download/betaextension.crx' version='1.2.8' />
   </app>
 
   <!-- Ekstensi Kedua  -->
   <app appid='kpajolaajpljcmcfebjchngkplmgajkd'>
-    <updatecheck codebase='https://github.com/MrYanz49/PT-Extension-Preview/releases/latest/download/betaextension.crx' version='1.2.6' />
+    <updatecheck codebase='https://github.com/MrYanz49/PT-Extension-Preview/releases/latest/download/betaextension.crx' version='1.2.8' />
   </app>
 </gupdate>
